@@ -1,0 +1,65 @@
+.bg-red{
+    background-color: red;
+}    
+.bg-brown{
+    background-color: brown;
+   }
+
+.bg-cyan{
+    background-color: cyan;
+}
+
+.bg-blue{
+    background-color:rgb(165, 218, 165) ;
+}
+
+input{
+    width:300px ;
+   
+}
+.resim{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.kutu1 {
+    
+      text-align: center;
+    background-color: rgb(212, 212, 212);
+    padding-bottom: 10px;  
+}
+
+/* link alanı */
+#kutu2{
+    text-align: center;
+    background: rgb(86, 228, 221);
+    width: 40%;
+    height: 80px;
+    padding-top: 10px;}
+
+    #div2{
+        width: auto;
+        height: 90px;}
+
+        #kutu3{
+            text-align: center;
+            height: 90px;
+            width: 20%;
+            background: rgb(64, 206, 199);
+        }
+
+        #kutu4{
+            text-align: center;
+            height: 90px;
+            width: 40%;
+            background: rgb(60, 184, 177);
+        }
+
+        .hiza{
+            float: left;}
+
+            .input2{
+             width: 50px;   
+            }
